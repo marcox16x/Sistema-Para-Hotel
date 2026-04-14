@@ -1,4 +1,4 @@
-package Pago;
+package Pago_OCP;
 
 //Clase de metodo de pago con tarjeta
 public class PagoTarjeta implements Pago{

@@ -1,4 +1,4 @@
-package Pago;
+package Pago_OCP;
 
 //Clase metodo de pago con yape
 public class PagoYape implements Pago {

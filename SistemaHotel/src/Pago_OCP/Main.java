@@ -1,4 +1,4 @@
-package Pago;
+package Pago_OCP;
 
 // Clase  para probar el sistema
 public class Main {

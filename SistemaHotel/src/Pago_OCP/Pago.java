@@ -1,4 +1,4 @@
-package Pago;
+package Pago_OCP;
 
 // Interfaz
 public interface Pago {

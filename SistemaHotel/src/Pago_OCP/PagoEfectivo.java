@@ -1,4 +1,4 @@
-package Pago;
+package Pago_OCP;
 
 //Esta clase implementara el pago en efectivo
 public class PagoEfectivo implements Pago {
